@@ -29,8 +29,8 @@
 
 ## 🖥️ GUI Preview
 
-![GUI Display](GUI_display.png)
-![GUI In-Use](GUI_in-use.png)
+![GUI Display](images/GUI_display.png)
+![GUI In-Use](images/GUI_in-use.png)
 ---
 
 ## 📦 Installation
